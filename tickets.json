@@ -1,0 +1,92 @@
+[
+  {
+    "ticket_id": "T01",
+    "customer_tier": "standard",
+    "channel": "email",
+    "language": "en",
+    "subject": "Unable to withdraw after verification request",
+    "message": "I already submitted my identity documents last week. Today my withdrawal is still pending and the app says additional verification may be required. What exactly do you need from me?",
+    "created_at": "2025-04-10T08:00:00Z"
+  },
+  {
+    "ticket_id": "T02",
+    "customer_tier": "vip",
+    "channel": "chat",
+    "language": "en",
+    "subject": "Bank transfer deposit missing",
+    "message": "I made a bank transfer 6 hours ago and the funds still have not appeared. Please fix this now.",
+    "created_at": "2025-04-10T08:20:00Z"
+  },
+  {
+    "ticket_id": "T03",
+    "customer_tier": "standard",
+    "channel": "email",
+    "language": "es",
+    "subject": "No puedo iniciar sesión",
+    "message": "Restablecí mi contraseña pero sigo sin poder entrar. El código de verificación no llega.",
+    "created_at": "2025-04-10T08:45:00Z"
+  },
+  {
+    "ticket_id": "T04",
+    "customer_tier": "standard",
+    "channel": "web_form",
+    "language": "en",
+    "subject": "How do I close my account?",
+    "message": "I want to permanently close my account and delete personal data if possible. Please tell me the steps.",
+    "created_at": "2025-04-10T09:10:00Z"
+  },
+  {
+    "ticket_id": "T05",
+    "customer_tier": "standard",
+    "channel": "email",
+    "language": "en",
+    "subject": "Charged twice on my card",
+    "message": "My card was charged twice for the same deposit. I need a refund today.",
+    "created_at": "2025-04-10T09:30:00Z"
+  },
+  {
+    "ticket_id": "T06",
+    "customer_tier": "vip",
+    "channel": "chat",
+    "language": "en",
+    "subject": "Can you advise which trading strategy is safest?",
+    "message": "I'm new and want the safest high-return setup. What strategy should I use this week?",
+    "created_at": "2025-04-10T10:00:00Z"
+  },
+  {
+    "ticket_id": "T07",
+    "customer_tier": "standard",
+    "channel": "email",
+    "language": "fr",
+    "subject": "Document refusé",
+    "message": "Mon justificatif de domicile a été refusé mais je ne comprends pas pourquoi. Quels documents acceptez-vous ?",
+    "created_at": "2025-04-10T10:20:00Z"
+  },
+  {
+    "ticket_id": "T08",
+    "customer_tier": "standard",
+    "channel": "chat",
+    "language": "en",
+    "subject": "Password reset link expired",
+    "message": "Your reset link expires immediately after I click it. Is there another way to regain access?",
+    "created_at": "2025-04-10T10:35:00Z"
+  },
+  {
+    "ticket_id": "T09",
+    "customer_tier": "standard",
+    "channel": "email",
+    "language": "en",
+    "subject": "Legal complaint if withdrawal not released",
+    "message": "If my withdrawal is not released within 24 hours I will report this to the regulator and start legal action.",
+    "created_at": "2025-04-10T11:00:00Z"
+  },
+  {
+    "ticket_id": "T10",
+    "customer_tier": "standard",
+    "channel": "web_form",
+    "language": "en",
+    "subject": "What documents are accepted for address verification?",
+    "message": "Can I use a bank statement from the last 2 months, or does it have to be a utility bill?",
+    "created_at": "2025-04-10T11:20:00Z"
+  }
+]

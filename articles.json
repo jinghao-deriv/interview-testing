@@ -1,0 +1,58 @@
+[
+  {
+    "article_id": "A01",
+    "title": "Why withdrawals may require additional verification",
+    "category": "withdrawals",
+    "language": "en",
+    "content": "Withdrawals can be delayed when additional identity or source-of-funds verification is required. Customers should check pending verification tasks in the account portal and ensure submitted documents are clear and valid. Support agents cannot manually bypass regulatory checks."
+  },
+  {
+    "article_id": "A02",
+    "title": "Bank transfer deposits: expected processing times",
+    "category": "deposits",
+    "language": "en",
+    "content": "Bank transfer deposits may take up to 1 business day to appear, depending on the sending bank and region. If funds are still missing after the stated window, contact support with transfer confirmation details."
+  },
+  {
+    "article_id": "A03",
+    "title": "Troubleshooting login and verification code issues",
+    "category": "login",
+    "language": "en",
+    "content": "If you cannot log in after resetting your password, confirm that you are using the latest reset link, check spam folders for verification codes, and verify that your device time is correct. If the issue persists, contact support for account-access review."
+  },
+  {
+    "article_id": "A04",
+    "title": "How to close your account and request data deletion",
+    "category": "account",
+    "language": "en",
+    "content": "Customers may request account closure through support. Personal data deletion requests are handled subject to legal and regulatory retention requirements. Support should confirm account ownership before actioning any closure request."
+  },
+  {
+    "article_id": "A05",
+    "title": "Accepted proof-of-address documents",
+    "category": "verification",
+    "language": "en",
+    "content": "Accepted proof-of-address documents typically include utility bills, bank statements, or government-issued letters dated within the last 6 months. The full name, address, issuing entity, and issue date must be visible."
+  },
+  {
+    "article_id": "A06",
+    "title": "Why a document may be rejected during verification",
+    "category": "verification",
+    "language": "en",
+    "content": "Documents may be rejected if they are expired, cropped, blurry, incomplete, or do not match the account holder details. Resubmissions should be clear, complete, and current."
+  },
+  {
+    "article_id": "A07",
+    "title": "Temporary card authorization holds and duplicate-looking charges",
+    "category": "payments",
+    "language": "en",
+    "content": "In some cases, a card statement may show both a completed charge and a temporary authorization hold. If both entries settle as completed transactions, contact support with transaction timestamps and card details for review."
+  },
+  {
+    "article_id": "A08",
+    "title": "Support policy: we do not provide trading advice",
+    "category": "policy",
+    "language": "en",
+    "content": "Support cannot recommend trading strategies, predict returns, or advise customers on what trades to place. Agents may instead direct customers to educational materials and risk disclosures."
+  }
+]

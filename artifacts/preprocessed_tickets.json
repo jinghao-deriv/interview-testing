@@ -1,0 +1,122 @@
+[
+  {
+    "ticket_id": "T01",
+    "original_language": "en",
+    "original_subject": "Unable to withdraw after verification request",
+    "original_message": "I already submitted my identity documents last week. Today my withdrawal is still pending and the app says additional verification may be required. What exactly do you need from me?",
+    "subject_for_processing": "Unable to withdraw after verification request",
+    "message_for_processing": "I already submitted my identity documents last week. Today my withdrawal is still pending and the app says additional verification may be required. What exactly do you need from me?",
+    "translated": false,
+    "customer_tier": "standard",
+    "channel": "email",
+    "created_at": "2025-04-10T08:00:00Z"
+  },
+  {
+    "ticket_id": "T02",
+    "original_language": "en",
+    "original_subject": "Bank transfer deposit missing",
+    "original_message": "I made a bank transfer 6 hours ago and the funds still have not appeared. Please fix this now.",
+    "subject_for_processing": "Bank transfer deposit missing",
+    "message_for_processing": "I made a bank transfer 6 hours ago and the funds still have not appeared. Please fix this now.",
+    "translated": false,
+    "customer_tier": "vip",
+    "channel": "chat",
+    "created_at": "2025-04-10T08:20:00Z"
+  },
+  {
+    "ticket_id": "T03",
+    "original_language": "es",
+    "original_subject": "No puedo iniciar sesión",
+    "original_message": "Restablecí mi contraseña pero sigo sin poder entrar. El código de verificación no llega.",
+    "subject_for_processing": "[ES – UNTRANSLATED] No puedo iniciar sesión",
+    "message_for_processing": "[ES – UNTRANSLATED] Restablecí mi contraseña pero sigo sin poder entrar. El código de verificación no llega.",
+    "translated": false,
+    "customer_tier": "standard",
+    "channel": "email",
+    "created_at": "2025-04-10T08:45:00Z"
+  },
+  {
+    "ticket_id": "T04",
+    "original_language": "en",
+    "original_subject": "How do I close my account?",
+    "original_message": "I want to permanently close my account and delete personal data if possible. Please tell me the steps.",
+    "subject_for_processing": "How do I close my account?",
+    "message_for_processing": "I want to permanently close my account and delete personal data if possible. Please tell me the steps.",
+    "translated": false,
+    "customer_tier": "standard",
+    "channel": "web_form",
+    "created_at": "2025-04-10T09:10:00Z"
+  },
+  {
+    "ticket_id": "T05",
+    "original_language": "en",
+    "original_subject": "Charged twice on my card",
+    "original_message": "My card was charged twice for the same deposit. I need a refund today.",
+    "subject_for_processing": "Charged twice on my card",
+    "message_for_processing": "My card was charged twice for the same deposit. I need a refund today.",
+    "translated": false,
+    "customer_tier": "standard",
+    "channel": "email",
+    "created_at": "2025-04-10T09:30:00Z"
+  },
+  {
+    "ticket_id": "T06",
+    "original_language": "en",
+    "original_subject": "Can you advise which trading strategy is safest?",
+    "original_message": "I'm new and want the safest high-return setup. What strategy should I use this week?",
+    "subject_for_processing": "Can you advise which trading strategy is safest?",
+    "message_for_processing": "I'm new and want the safest high-return setup. What strategy should I use this week?",
+    "translated": false,
+    "customer_tier": "vip",
+    "channel": "chat",
+    "created_at": "2025-04-10T10:00:00Z"
+  },
+  {
+    "ticket_id": "T07",
+    "original_language": "fr",
+    "original_subject": "Document refusé",
+    "original_message": "Mon justificatif de domicile a été refusé mais je ne comprends pas pourquoi. Quels documents acceptez-vous ?",
+    "subject_for_processing": "[FR – UNTRANSLATED] Document refusé",
+    "message_for_processing": "[FR – UNTRANSLATED] Mon justificatif de domicile a été refusé mais je ne comprends pas pourquoi. Quels documents acceptez-vous ?",
+    "translated": false,
+    "customer_tier": "standard",
+    "channel": "email",
+    "created_at": "2025-04-10T10:20:00Z"
+  },
+  {
+    "ticket_id": "T08",
+    "original_language": "en",
+    "original_subject": "Password reset link expired",
+    "original_message": "Your reset link expires immediately after I click it. Is there another way to regain access?",
+    "subject_for_processing": "Password reset link expired",
+    "message_for_processing": "Your reset link expires immediately after I click it. Is there another way to regain access?",
+    "translated": false,
+    "customer_tier": "standard",
+    "channel": "chat",
+    "created_at": "2025-04-10T10:35:00Z"
+  },
+  {
+    "ticket_id": "T09",
+    "original_language": "en",
+    "original_subject": "Legal complaint if withdrawal not released",
+    "original_message": "If my withdrawal is not released within 24 hours I will report this to the regulator and start legal action.",
+    "subject_for_processing": "Legal complaint if withdrawal not released",
+    "message_for_processing": "If my withdrawal is not released within 24 hours I will report this to the regulator and start legal action.",
+    "translated": false,
+    "customer_tier": "standard",
+    "channel": "email",
+    "created_at": "2025-04-10T11:00:00Z"
+  },
+  {
+    "ticket_id": "T10",
+    "original_language": "en",
+    "original_subject": "What documents are accepted for address verification?",
+    "original_message": "Can I use a bank statement from the last 2 months, or does it have to be a utility bill?",
+    "subject_for_processing": "What documents are accepted for address verification?",
+    "message_for_processing": "Can I use a bank statement from the last 2 months, or does it have to be a utility bill?",
+    "translated": false,
+    "customer_tier": "standard",
+    "channel": "web_form",
+    "created_at": "2025-04-10T11:20:00Z"
+  }
+]

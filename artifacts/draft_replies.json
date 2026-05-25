@@ -1,0 +1,82 @@
+[
+  {
+    "ticket_id": "T01",
+    "reply_subject": "Re: Unable to withdraw after verification request",
+    "reply_body": "Thank you for contacting us. We have reviewed your query and our help-center article should address your concern. Please check the information provided and let us know if you need further assistance.",
+    "agent_note": "[STUB MODE] issue_type=verification_docs, risk_flag=compliance, risk_points=20, auto_send_eligible=False, priority=normal. Template reply – human review recommended.",
+    "escalation_team": "Compliance",
+    "send_gate": "human_review"
+  },
+  {
+    "ticket_id": "T02",
+    "reply_subject": "Re: Bank transfer deposit missing",
+    "reply_body": "Thank you for contacting us. We have reviewed your query and our help-center article should address your concern. Please check the information provided and let us know if you need further assistance.",
+    "agent_note": "[STUB MODE] issue_type=deposit_missing, risk_flag=none, risk_points=10, auto_send_eligible=False, priority=normal. Template reply – human review recommended.",
+    "escalation_team": "Payments",
+    "send_gate": "human_review"
+  },
+  {
+    "ticket_id": "T03",
+    "reply_subject": "Re: [ES – UNTRANSLATED] No puedo iniciar sesión",
+    "reply_body": "Thank you for contacting us. We have reviewed your query and our help-center article should address your concern. Please check the information provided and let us know if you need further assistance.",
+    "agent_note": "[STUB MODE] issue_type=other, risk_flag=none, risk_points=0, auto_send_eligible=False, priority=normal. Template reply – human review recommended.",
+    "escalation_team": "Customer Support",
+    "send_gate": "human_review"
+  },
+  {
+    "ticket_id": "T04",
+    "reply_subject": "Re: How do I close my account?",
+    "reply_body": "Thank you for reaching out. Your request requires review by our specialist team. A member of our team will contact you as soon as possible.",
+    "agent_note": "[STUB MODE] issue_type=account_closure, risk_flag=none, risk_points=10, auto_send_eligible=False, priority=normal. Template reply – human review recommended.",
+    "escalation_team": "Data Privacy",
+    "send_gate": "human_review"
+  },
+  {
+    "ticket_id": "T05",
+    "reply_subject": "Re: Charged twice on my card",
+    "reply_body": "Thank you for reaching out. Your request requires review by our specialist team. A member of our team will contact you as soon as possible.",
+    "agent_note": "[STUB MODE] issue_type=duplicate_charge, risk_flag=financial, risk_points=30, auto_send_eligible=False, priority=normal. Template reply – human review recommended.",
+    "escalation_team": "Payments",
+    "send_gate": "human_review"
+  },
+  {
+    "ticket_id": "T06",
+    "reply_subject": "Re: Can you advise which trading strategy is safest?",
+    "reply_body": "Thank you for your message. Our support team is unable to provide trading advice or strategy recommendations. We encourage you to review our educational materials and risk disclosure documents available in your account portal.",
+    "agent_note": "[STUB MODE] issue_type=trading_advice_request, risk_flag=none, risk_points=10, auto_send_eligible=False, priority=normal. Template reply – human review recommended.",
+    "escalation_team": "Customer Support",
+    "send_gate": "human_review"
+  },
+  {
+    "ticket_id": "T07",
+    "reply_subject": "Re: [FR – UNTRANSLATED] Document refusé",
+    "reply_body": "Thank you for contacting us. We have reviewed your query and our help-center article should address your concern. Please check the information provided and let us know if you need further assistance.",
+    "agent_note": "[STUB MODE] issue_type=verification_docs, risk_flag=compliance, risk_points=20, auto_send_eligible=False, priority=normal. Template reply – human review recommended.",
+    "escalation_team": "Compliance",
+    "send_gate": "human_review"
+  },
+  {
+    "ticket_id": "T08",
+    "reply_subject": "Re: Password reset link expired",
+    "reply_body": "Thank you for contacting us. We have reviewed your query and our help-center article should address your concern. Please check the information provided and let us know if you need further assistance.",
+    "agent_note": "[STUB MODE] issue_type=login_access, risk_flag=security, risk_points=40, auto_send_eligible=False, priority=urgent. Template reply – human review recommended.",
+    "escalation_team": "Account Security",
+    "send_gate": "human_review"
+  },
+  {
+    "ticket_id": "T09",
+    "reply_subject": "Re: Legal complaint if withdrawal not released",
+    "reply_body": "Thank you for reaching out. Your request requires review by our specialist team. A member of our team will contact you as soon as possible.",
+    "agent_note": "[STUB MODE] issue_type=withdrawal_delay, risk_flag=legal, risk_points=65, auto_send_eligible=False, priority=urgent. Template reply – human review recommended.",
+    "escalation_team": "Legal",
+    "send_gate": "human_review"
+  },
+  {
+    "ticket_id": "T10",
+    "reply_subject": "Re: What documents are accepted for address verification?",
+    "reply_body": "Thank you for contacting us. We have reviewed your query and our help-center article should address your concern. Please check the information provided and let us know if you need further assistance.",
+    "agent_note": "[STUB MODE] issue_type=verification_docs, risk_flag=compliance, risk_points=20, auto_send_eligible=False, priority=normal. Template reply – human review recommended.",
+    "escalation_team": "Compliance",
+    "send_gate": "human_review"
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "ticket_id": "T01",
+    "candidate_articles": [
+      {
+        "article_id": "A01",
+        "score": 0.183193
+      },
+      {
+        "article_id": "A06",
+        "score": 0.046157
+      },
+      {
+        "article_id": "A04",
+        "score": 0.039616
+      }
+    ]
+  },
+  {
+    "ticket_id": "T02",
+    "candidate_articles": [
+      {
+        "article_id": "A02",
+        "score": 0.256792
+      },
+      {
+        "article_id": "A05",
+        "score": 0.027142
+      },
+      {
+        "article_id": "A01",
+        "score": 0.018538
+      }
+    ]
+  },
+  {
+    "ticket_id": "T03",
+    "candidate_articles": [
+      {
+        "article_id": "A01",
+        "score": 0.0
+      },
+      {
+        "article_id": "A02",
+        "score": 0.0
+      },
+      {
+        "article_id": "A03",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "ticket_id": "T04",
+    "candidate_articles": [
+      {
+        "article_id": "A04",
+        "score": 0.210642
+      },
+      {
+        "article_id": "A06",
+        "score": 0.027862
+      },
+      {
+        "article_id": "A03",
+        "score": 0.021498
+      }
+    ]
+  },
+  {
+    "ticket_id": "T05",
+    "candidate_articles": [
+      {
+        "article_id": "A07",
+        "score": 0.080851
+      },
+      {
+        "article_id": "A01",
+        "score": 0.0
+      },
+      {
+        "article_id": "A02",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "ticket_id": "T06",
+    "candidate_articles": [
+      {
+        "article_id": "A08",
+        "score": 0.059874
+      },
+      {
+        "article_id": "A01",
+        "score": 0.0
+      },
+      {
+        "article_id": "A02",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "ticket_id": "T07",
+    "candidate_articles": [
+      {
+        "article_id": "A06",
+        "score": 0.030536
+      },
+      {
+        "article_id": "A05",
+        "score": 0.013498
+      },
+      {
+        "article_id": "A01",
+        "score": 0.007681
+      }
+    ]
+  },
+  {
+    "ticket_id": "T08",
+    "candidate_articles": [
+      {
+        "article_id": "A03",
+        "score": 0.153011
+      },
+      {
+        "article_id": "A06",
+        "score": 0.028012
+      },
+      {
+        "article_id": "A01",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "ticket_id": "T09",
+    "candidate_articles": [
+      {
+        "article_id": "A04",
+        "score": 0.034125
+      },
+      {
+        "article_id": "A01",
+        "score": 0.0
+      },
+      {
+        "article_id": "A02",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "ticket_id": "T10",
+    "candidate_articles": [
+      {
+        "article_id": "A05",
+        "score": 0.207229
+      },
+      {
+        "article_id": "A06",
+        "score": 0.044683
+      },
+      {
+        "article_id": "A01",
+        "score": 0.03915
+      }
+    ]
+  }
+]
